@@ -1,2 +1,3 @@
 # calculatrice-tkinter
-Une calculatrice avec tkinter
+Une calculatrice DeskTop avec tkinter
+- 
